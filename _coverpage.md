@@ -1,12 +1,15 @@
 ![logo](_media/icon.svg)
 
-# 大虾的文档网站
-## 个人文档网站
-> 一个神奇的文档网站生成巩固
+# 大虾的文档
+## Born to try
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+> 记录技术和想法
+
+* 编程知识
+* 技术专栏
+* 行业思考
+* 面试问题
 
 [开始阅读](technotes/)
+
 
