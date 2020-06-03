@@ -23,6 +23,7 @@
 
 * 面试的问题摘录
   * [Golang基础](faceview/golang_asic)
+  * [Golang范式](face/golang_pattern)
   * [Java基础](faceview/java_basic)
   * [Java集合](faceview/java_collection)
   * [Java线程](faceview/java_thread)
